@@ -1,27 +1,5 @@
 # Is AI a Heist on the European Economy?
 
-AI summary: US companies are profiting significantly from AI services in Europe by bundling them with cloud infrastructure, leading to an outflow of resources and economic value. To counter this, Europe should create an open marketplace for AI infrastructure, ensuring transparency, competition, and maximizing returns on local resources.
-Author: Max Schulze
-Publication Status: Draft
-Category: Policy Brief
-Geographic Scope: International
-Length: Brief
-Policy Fields: Artificial Intelligence, Competition, Digital, Infrastructure
-Programs: Sustainable Digital Products (https://www.notion.so/Sustainable-Digital-Products-d69c37fc786548099c2e92e4118ce905?pvs=21), Sustainable Digital Infrastructure Alliance (SDIA) (https://www.notion.so/Sustainable-Digital-Infrastructure-Alliance-SDIA-b8efc6f436e34de0938462f02490ee57?pvs=21)
-Projects: NADIKI (https://www.notion.so/NADIKI-6b218ae29cb4442887dd2427acccefee?pvs=21)
-Target Segments: Digital Policymakers (https://www.notion.so/Digital-Policymakers-46d6e91cd7fe4e9da883a3fe3478bd1f?pvs=21), Politicians who want to have a digital agenda (https://www.notion.so/Politicians-who-want-to-have-a-digital-agenda-157efc5c5853806ba811cd5ee031f72a?pvs=21)
-Tags: artificial intelligence
-Tags (website): Artificial Inteligence
-Publish at Website: Yes
-
-[Feedback](https://www.notion.so/Feedback-186efc5c585380a4807acf4d122daf77?pvs=21)
-
-[Version 1](https://www.notion.so/Version-1-18fefc5c585380bd8a58efa182e0556e?pvs=21)
-
----
-
-# Is AI a Heist on the European Economy?
-
 Every year, US tech giants extract an estimated €19 billion from European economies through AI infrastructure - using European energy, land and resources while avoiding fair compensation. This invisible digital heist overshadows earlier concerns about AI's use of training data and intellectual property.
 
 The mechanism is subtle but powerful: While providing valuable AI services to European businesses, US companies bundle these services with US-owned cloud infrastructure, creating a closed loop that captures value while bypassing European providers and tax systems.
