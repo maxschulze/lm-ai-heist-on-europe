@@ -6,7 +6,7 @@ The mechanism is subtle but powerful: While providing valuable AI services to Eu
 
 Estimating the extracted value is hard, due to the lack of transparency and a strong practice of secrecy. However, taking a systems perspective can reveal the underlying extraction mechanisms and create a model to estimate the economic impact.
 
-![*Overview of the systems-level view of money flow in AI services to infrastructure and resources. Source: Leitmotiv*](https://lex-img-p.s3.us-west-2.amazonaws.com/img/1935775e-88dd-4417-9e1a-f4120455b2d7-RackMultipart20250203-156-albvb3.png)
+![*Overview of the systems-level view of money flow in AI services to infrastructure and resources. Source: Leitmotiv*](https://github.com/maxschulze/lm-ai-heist-on-europe/blob/main/image.png)
 
 *Overview of the systems-level view of money flow in AI services to infrastructure and resources. Source: Leitmotiv*
 
